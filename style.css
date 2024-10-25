@@ -1,0 +1,105 @@
+/* Estilo geral
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    background-color: #003641;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+    
+  }
+  
+  .container {
+    text-align: center;
+  }
+  #pontos{
+	font-size: 20px;
+	text-align: center;
+  }
+  
+  #start-screen {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .button-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .profile-btn {
+    background-color: #00AE9D;
+    border: none;
+    padding: 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    text-align: center;
+    transition: background-color 0.3s ease, transform 0.2s ease, box-shadow 0.3s ease;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3); 
+  }
+  
+  .profile-btn img {
+    width: 50px;
+    height: 50px;
+    display: block;
+    margin: 0 auto 10px;
+  }
+  
+  .profile-btn:hover {
+    background-color: #7DB61C;
+    transform: scale(1.1); 
+    box-shadow: 0 6px 8px rgba(0, 0, 0, 0.5);
+  }
+  
+  .profile-btn span {
+    color: #ffffff;
+    font-size: 18px;
+  }*/
+  
+  
+  .quiz-container {
+    background-color: #00AE9D;
+    border-radius: 10px;
+    padding: 20px;
+    width: 80%;
+    max-width: 600px;
+  }
+  
+  .options-container {
+    display: flex;
+    flex-direction: column;
+    z-index: 1000;
+  }
+  
+  .option {
+    background-color: #7DB61C;
+    border: none;
+    padding: 15px;
+    margin: 10px 0;
+    color: #ffffff;
+    font-size: 18px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3); /* Sombra nas opções */
+  }
+  
+  .option:hover {
+    background-color: #49479D;
+    box-shadow: 0 6px 8px rgba(0, 0, 0, 0.5); /* Sombra mais intensa no hover */
+  }
+  
+  .result-container {
+    margin-top: 20px;
+    font-size: 20px;
+  }
+  
+  #result {
+    color: #C9D200;
+  }
+  

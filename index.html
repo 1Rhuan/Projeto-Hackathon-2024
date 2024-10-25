@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tela de Início</title>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon">
+
+    <link rel="stylesheet" href="styles2.css">
+</head>
+<body>
+    <img src="images/credit-card-animate.svg" class="animacao-telaini-dir" alt="animacao-telaini-dir">
+    <img src="images/finance-animate.svg"  class="animacao-telaini-esq" alt="animacao-telaini-esq">
+    <img src="images/savings-animate.svg" class="animacao-telaini-meio" alt="animacao-telaini-meio">
+    <img src="images/details.png" class="details" alt="details" id="details">
+    <img src="images/logo.png" class="logo" alt="logo" id="logo">
+    <div class="container">
+        <div id="tela-inicio">
+            <button id="start-button">COMEÇAR</button>
+        </div>
+        <div id="start-screen">
+			<div id="escolhas" class="esconder">
+				<h2>Escolha o seu perfil:</h2>
+				<div class="botao-container">
+					<button class="botao-escolha" onclick="perguntas(1)">
+						<img src="images/crianca.jpg" alt="Criança">
+						<span>Criança</span>
+					</button>
+					<button class="botao-escolha" onclick="perguntas(1)">
+						<img src="images/adulto.jpg" alt="Adulto">
+						<span>Adulto</span>
+					</button>
+					<button class="botao-escolha" onclick="perguntas(1)">
+						<img src="images/cooperados.png" alt="Adulto Cooperado">
+						<span>Adulto Cooperado</span>
+					</button>
+				</div>
+			</div>
+        </div>
+	  <!-- Tela de quiz (oculta inicialmente) -->
+	  <!--<div id="pontos"></div>-->
+	  <div id="quiz-screen" class="container" style="display:none;">
+		  
+		  <div class="result-container">
+			<p id="result"></p>
+		  </div>
+	  </div>
+
+  
+	<script src="main.js"></script>
+</body>
+</html>

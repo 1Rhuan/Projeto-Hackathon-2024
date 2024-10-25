@@ -1,0 +1,115 @@
+{
+    "perguntasCriancas": [
+        {
+            "id": 1,
+            "pergunta": "Qual é a soma de 2 + 3?",
+            "alternativaA": "4",
+            "alternativaB": "5",
+            "alternativaC": "6",
+            "corretaA": "2",
+            "corretaB": "1",
+            "corretaC": "2",
+            "nivel": "Fácil",
+            "tipo": "Matemátic"
+        },
+        {
+            "id": 2,
+            "pergunta": "Qual é a principal fonte de energia do nosso planeta?",
+            "alternativaA": "Água",
+            "alternativaB": "O sol",
+            "alternativaC": "O vento",
+            "corretaA": "2",
+            "corretaB": "1",
+            "corretaC": "2",
+            "nivel": "Fácil",
+            "tipo": "Meio Ambiente"
+        },
+        {
+            "id": 3,
+            "pergunta": "O que significa economizar dinheiro?",
+            "alternativaA": "Gastar tudo",
+            "alternativaB": "Guardar para usar depois",
+            "alternativaC": "Dar para os amigos",
+            "corretaA": "2",
+            "corretaB": "1",
+            "corretaC": "1",
+            "nivel": "Fácil",
+            "tipo": "Finanças"
+        }
+    ],
+    "perguntasAdultos": [
+        {
+            "id": 1,
+            "pergunta": "Qual é o impacto das emissões de carbono no aquecimento global?",
+            "alternativaA": "Aumento da temperatura média do planeta",
+            "alternativaB": "Redução das chuvas",
+            "alternativaC": "Aumento da biodiversidade",
+            "corretaA": "1",
+            "corretaB": "2",
+            "corretaC": "2",
+            "nivel": "Médio",
+            "tipo": "Meio Ambiente"
+        },
+        {
+            "id": 2,
+            "pergunta": "Qual é a diferença entre ativos e passivos em uma demonstração financeira?",
+            "alternativaA": "Ativos são bens que trazem receita; passivos são dívidas",
+            "alternativaB": "Ativos são despesas; passivos são receita",
+            "alternativaC": "Ativos são investimentos de curto prazo; passivos são de longo prazo",
+            "corretaA": "1",
+            "corretaB": "2",
+            "corretaC": "2",
+            "nivel": "Médio",
+            "tipo": "Finanças"
+        },
+        {
+            "id": 3,
+            "pergunta": "Qual é a importância da diversificação em uma carteira de investimentos?",
+            "alternativaA": "Reduz o risco de perdas",
+            "alternativaB": "Aumenta a volatilidade",
+            "alternativaC": "Facilita o investimento em um único ativo",
+            "corretaA": "1",
+            "corretaB": "2",
+            "corretaC": "2",
+            "nivel": "Difícil",
+            "tipo": "Investimento"
+        },
+        {
+            "id": 4,
+            "pergunta": "Quais são os principais produtos oferecidos pela cooperativa Sicoob Monticredi?",
+            "alternativaA": "Produtos eletrônicos e roupas",
+            "alternativaB": "Produtos financeiros como empréstimos, conta corrente e cartões",
+            "alternativaC": "Apenas alimentos",
+            "corretaA": "2",
+            "corretaB": "1",
+            "corretaC": "2",
+            "nivel": "Médio",
+            "tipo": "Produtos e Serviços da Cooperativa"
+        },
+        {
+            "id": 5,
+            "pergunta": "Quais são os princípios fundamentais do cooperativismo?",
+            "alternativaA": "Autonomia, solidariedade e lucro",
+            "alternativaB": "Adesão voluntária, controle democrático e participação econômica",
+            "alternativaC": "Exclusividade, competição e maximização de lucros",
+            "corretaA": "2",
+            "corretaB": "1",
+            "corretaC": "2",
+            "nivel": "Médio",
+            "tipo": "Cooperativismo"
+        },
+        {
+            "id": 6,
+            "pergunta": "Quais iniciativas o Sicoob Monticredi adota para promover a sustentabilidade?",
+            "alternativaA": "Não tem iniciativas sustentáveis",
+            "alternativaB": "Projetos de reciclagem e educação ambiental",
+            "alternativaC": "Foco apenas em lucro financeiro",
+            "corretaA": "2",
+            "corretaB": "1",
+            "corretaC": "2",
+            "nivel": "Médio",
+            "tipo": "Curiosidades do Sicoob Monticredi"
+        }
+    ]
+}
+
