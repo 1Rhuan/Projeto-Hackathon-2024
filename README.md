@@ -21,11 +21,11 @@ O objetivo do jogo é oferecer uma experiência divertida e educativa para os pa
 ## Como Rodar o Projeto
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/seu-repositorio/quiz-hackathon.git
+   git clone https://github.com/seu-repositorio/Projeto-Hackathon-2024.git
    ```
 2. Acesse o diretório do projeto:
    ```sh
-   cd quiz-hackathon
+   cd Projeto-Hackathon-2024
    ```
 3. Abra o arquivo `index.html` em um navegador.
 
