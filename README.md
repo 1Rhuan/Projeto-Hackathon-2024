@@ -30,12 +30,5 @@ O objetivo do jogo é oferecer uma experiência divertida e educativa para os pa
 3. Abra o arquivo `index.html` em um navegador.
 
 ## Contribuidores
-Este projeto foi desenvolvido por estudantes da UniFUCAMP durante o hackathon, com apoio da Sicredi MonteCred.
-
-## Licença
-Este projeto é de uso interno para eventos da Sicredi MonteCred e não possui uma licença pública no momento.
-
----
-
-Se precisar de mais alguma edição ou detalhes adicionais, me avise!
+Este projeto foi desenvolvido por estudantes da UniFUCAMP durante o hackathon, com apoio da Sicredi MonteCred
 
